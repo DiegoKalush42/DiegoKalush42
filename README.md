@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiegoKalush42
 - 👀 I’m interested in data analysis wiith python and blockchain techonology. 
 - 🌱 I’m currently learning solidity
-- 📫 How to reach me: diego.gles.agu.42@gmail.com
+- 📫 How to reach me: diego.glez.agu.42@gmail.com
 - ⚡ I you have an interesting data analysis project feel free to contact me
 
 <!---
